@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj": {}
+  },
+  "projects": {
+    "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj",
+        "projectName": "BlazorAppXpertlab.Client",
+        "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj",
+        "packagesPath": "C:\\Users\\miZan\\.nuget\\packages\\",
+        "outputPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miZan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {
+                "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Blazor": {
+              "target": "Package",
+              "version": "[3.1.0-preview3.19555.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0-preview3.19555.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.HttpClient": {
+              "target": "Package",
+              "version": "[3.2.0-preview2.20160.5, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[3.1.0-preview3.19555.2, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.0-preview2.20160.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0-preview2.20160.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0-preview2.20160.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
+        "projectName": "BlazorAppXpertlab.Shared",
+        "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
+        "packagesPath": "C:\\Users\\miZan\\.nuget\\packages\\",
+        "outputPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miZan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
