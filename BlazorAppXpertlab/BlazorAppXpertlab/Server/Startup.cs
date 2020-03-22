@@ -53,32 +53,34 @@ namespace BlazorAppXpertlab.Server
             };
         });
 
-            services.AddBlazoredLocalStorage();
-            services.AddAuthorizationCore();
-            services.AddScoped<AuthenticationStateProvider, ApiAuthenticationStateProvider>();
-            services.AddScoped<IAuthService, AuthService>();
+            services.AddMvc().AddNewtonsoftJson();
+            services.AddResponseCompression(opts =>
+            {
+                opts.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(
+                    new[] { "application/octet-stream" });
+            });
 
-            services.AddControllersWithViews();
+            //services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseResponseCompression();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseWebAssemblyDebugging();
-            }
-            else
-            {
-                app.UseExceptionHandler("/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                app.UseBlazorDebugging();
             }
 
-            app.UseHttpsRedirection();
-            app.UseBlazorFrameworkFiles();
-            app.UseStaticFiles();
+            app.UseClientSideBlazorFiles<Client.Startup>();
+
+            app.UseRouting();
+
+            //app.UseHttpsRedirection();
+            //app.UseBlazorFrameworkFiles();
+            //app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -87,8 +89,8 @@ namespace BlazorAppXpertlab.Server
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
-                endpoints.MapFallbackToFile("index.html");
+                endpoints.MapDefaultControllerRoute();
+                endpoints.MapFallbackToClientSideBlazor<Client.Startup>("index.html");
             });
         }
     }

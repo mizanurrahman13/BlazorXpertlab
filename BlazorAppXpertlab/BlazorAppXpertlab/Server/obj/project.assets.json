@@ -9562,11 +9562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Server\\BlazorAppXpertlab.Server.csproj",
+      "projectUniqueName": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Server\\BlazorAppXpertlab.Server.csproj",
       "projectName": "BlazorAppXpertlab.Server",
-      "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Server\\BlazorAppXpertlab.Server.csproj",
+      "projectPath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Server\\BlazorAppXpertlab.Server.csproj",
       "packagesPath": "C:\\Users\\miZan\\.nuget\\packages\\",
-      "outputPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Server\\obj\\",
+      "outputPath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9587,11 +9587,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj": {
-              "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj"
+            "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj": {
+              "projectPath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Client\\BlazorAppXpertlab.Client.csproj"
             },
-            "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {
-              "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj"
+            "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {
+              "projectPath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj"
             }
           }
         }

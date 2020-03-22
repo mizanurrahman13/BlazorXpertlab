@@ -157,3 +157,8 @@ I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Server\bin\Deb
 I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Server\obj\Debug\netcoreapp3.1\BlazorAppXpertlab.Server.csprojAssemblyReference.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Server\obj\Debug\netcoreapp3.1\BlazorAppXpertlab.Server.csproj.CoreCompileInputs.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Server\obj\Debug\netcoreapp3.1\BlazorAppXpertlab.Server.MvcApplicationPartsAssemblyInfo.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Server\obj\Debug\netcoreapp3.1\BlazorAppXpertlab.Server.AssemblyInfoInputs.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Server\obj\Debug\netcoreapp3.1\BlazorAppXpertlab.Server.AssemblyInfo.cs

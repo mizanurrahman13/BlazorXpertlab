@@ -6,3 +6,12 @@ I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Deb
 I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.dll
 I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.pdb
 I:\XpertLab\BlazorXpertlabLBD\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.csproj.CoreCompileInputs.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\bin\Debug\netstandard2.1\BlazorAppXpertlab.Shared.deps.json
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\bin\Debug\netstandard2.1\BlazorAppXpertlab.Shared.dll
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\bin\Debug\netstandard2.1\BlazorAppXpertlab.Shared.pdb
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.csproj.CoreCompileInputs.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.AssemblyInfoInputs.cache
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.AssemblyInfo.cs
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.dll
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.pdb
+I:\XpertLab\BlazorXpertlab\BlazorAppXpertlab\BlazorAppXpertlab\Shared\obj\Debug\netstandard2.1\BlazorAppXpertlab.Shared.csprojAssemblyReference.cache

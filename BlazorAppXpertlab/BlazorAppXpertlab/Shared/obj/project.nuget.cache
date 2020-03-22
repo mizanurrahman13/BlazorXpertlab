@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdwEa46RM2IziCNxkrU4mHBzAD+F6InsKsJHG7C9K0KhSevThpcQYKHNguWIAKKtrkFxHbLrWBpsIcTJf2z1nQ==",
+  "dgSpecHash": "dndd//0Sg/Po+rBpE77jFVpg5CBWmPyFRe58vWX4GNM/cROSLLyE8S0KcXPAV3EPSi8X0NNCmXUhaSJGcy3n/Q==",
   "success": true,
-  "projectFilePath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
+  "projectFilePath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miZan\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],

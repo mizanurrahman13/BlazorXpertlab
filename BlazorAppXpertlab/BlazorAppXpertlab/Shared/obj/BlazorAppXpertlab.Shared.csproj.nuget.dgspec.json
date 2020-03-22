@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {}
+    "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {}
   },
   "projects": {
-    "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {
+    "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
+        "projectUniqueName": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
         "projectName": "BlazorAppXpertlab.Shared",
-        "projectPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
+        "projectPath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\BlazorAppXpertlab.Shared.csproj",
         "packagesPath": "C:\\Users\\miZan\\.nuget\\packages\\",
-        "outputPath": "I:\\XpertLab\\BlazorXpertlabLBD\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\obj\\",
+        "outputPath": "I:\\XpertLab\\BlazorXpertlab\\BlazorAppXpertlab\\BlazorAppXpertlab\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
